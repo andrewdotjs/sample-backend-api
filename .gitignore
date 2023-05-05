@@ -1,5 +1,8 @@
 # Boilerplate gitignore, courtesy of https://github.com/github/gitignore
 
+# Mac Files
+.DS_Store
+
 # Logs
 logs
 *.log
